@@ -1,0 +1,13 @@
+<devices xmlns="http://tail-f.com/ns/ncs">
+               <device>
+                 <name>Router3</name>
+                 <config>
+                   <vrf xmlns="urn:ios">
+                     <definition>
+                       <name>Task051_VRF</name>
+                       <rd>51:51</rd>
+                     </definition>
+                   </vrf>
+                 </config>
+               </device>
+             </devices>
