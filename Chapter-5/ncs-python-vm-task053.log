@@ -1,0 +1,34 @@
+<INFO> 20-Feb-2025::13:43:25.418 task053 MainThread: - Python 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]
+<INFO> 20-Feb-2025::13:43:25.418 task053 MainThread: - Using callpoint-model: threading
+<INFO> 20-Feb-2025::13:43:25.418 task053 MainThread: - Starting...
+<INFO> 20-Feb-2025::13:43:25.437 task053 MainThread: - Started
+<INFO> 20-Feb-2025::13:43:25.471 task053 ComponentThread:main: - Main RUNNING
+<INFO> 20-Feb-2025::13:49:01.417 task053 ncs-dp-9788-task053:main:0-1-th-2892: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::13:49:14.421 task053 ncs-dp-9788-task053:main:0-1-th-2892: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::13:52:39.990 task053 ncs-dp-9788-task053:main:0-2-th-2948: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::13:58:34.634 task053 ncs-dp-9788-task053:main:0-3-th-3070: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::14:47:39.836 task053 MainThread: - Exiting...
+<INFO> 20-Feb-2025::14:47:39.842 task053 MainThread: - joining ComponentThread task053.main.Main...
+<INFO> 20-Feb-2025::14:47:39.843 task053 ComponentThread:main: - Main FINISHED
+<INFO> 20-Feb-2025::14:47:39.843 task053 MainThread: - joined ComponentThread task053.main.Main
+<INFO> 20-Feb-2025::14:47:39.844 task053 MainThread: - Exited
+<INFO> 20-Feb-2025::14:47:39.844 task053 MainThread: - Goodbye cruel world...
+<INFO> 20-Feb-2025::14:47:39.997 task053 MainThread: - Python 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]
+<INFO> 20-Feb-2025::14:47:39.998 task053 MainThread: - Using callpoint-model: threading
+<INFO> 20-Feb-2025::14:47:39.998 task053 MainThread: - Starting...
+<INFO> 20-Feb-2025::14:47:39.999 task053 MainThread: - Started
+<INFO> 20-Feb-2025::14:47:40.15 task053 ComponentThread:main: - Main RUNNING
+<INFO> 20-Feb-2025::14:51:21.839 task053 MainThread: - Exiting...
+<INFO> 20-Feb-2025::14:51:21.881 task053 MainThread: - joining ComponentThread task053.main.Main...
+<INFO> 20-Feb-2025::14:51:21.882 task053 ComponentThread:main: - Main FINISHED
+<INFO> 20-Feb-2025::14:51:21.882 task053 MainThread: - joined ComponentThread task053.main.Main
+<INFO> 20-Feb-2025::14:51:21.882 task053 MainThread: - Exited
+<INFO> 20-Feb-2025::14:51:21.882 task053 MainThread: - Goodbye cruel world...
+<INFO> 20-Feb-2025::14:51:22.422 task053 MainThread: - Python 3.8.10 (default, Nov 26 2021, 20:14:08) [GCC 9.3.0]
+<INFO> 20-Feb-2025::14:51:22.423 task053 MainThread: - Using callpoint-model: threading
+<INFO> 20-Feb-2025::14:51:22.423 task053 MainThread: - Starting...
+<INFO> 20-Feb-2025::14:51:22.424 task053 MainThread: - Started
+<INFO> 20-Feb-2025::14:51:22.484 task053 ComponentThread:main: - Main RUNNING
+<INFO> 20-Feb-2025::15:00:51.835 task053 ncs-dp-14986-task053:main:0-1-th-3195: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::15:01:26.226 task053 ncs-dp-14986-task053:main:0-2-th-3195: - Service create(service=/task053:task053{pod10})
+<INFO> 20-Feb-2025::15:01:34.681 task053 ncs-dp-14986-task053:main:0-2-th-3195: - Service create(service=/task053:task053{pod10})
