@@ -40,11 +40,11 @@ library_data = {
   "44444": "Nothing is impossible!!!",
   "55555": "Welcome to James Bond world!!!"
 }
-add_book_parser = reqparse.RequestParser()
-add_book_parser.add_argument("isbn", location="json")
-add_book_parser.add_argument("title", location="json")
+
 remove_book_parser = reqparse.RequestParser()
 remove_book_parser.add_argument("isbn", location="json")
+add_book_parser = remove_book_parser.copy()
+add_book_parser.add_argument("title", location="json")
 @api.route("/book")
 class Book(Resource):
     def get(self):
